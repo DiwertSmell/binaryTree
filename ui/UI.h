@@ -1,6 +1,6 @@
 #pragma once
 
-#include "C:/Users/darti/Desktop/Programming/binaryTree/src/SearchTree/SearchTree.h"
+#include "../src/SearchTree/SearchTree.h"
 
 #define CLEAR "clear"
 #define EXIT "exit"
