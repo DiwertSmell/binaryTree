@@ -1,7 +1,7 @@
 #pragma once
 
-#include "C:/Users/darti/Desktop/Programming/binaryTree/src/bintree/bintree.h"
-#include "C:/Users/darti/Desktop/Programming/binaryTree/ui/UI.h"
+#include "../src/bintree/bintree.h"
+#include "../ui/UI.h"
 
 //------------------------------------------------------------------------------
 
